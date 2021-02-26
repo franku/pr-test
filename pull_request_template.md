@@ -1,10 +1,9 @@
 ### Thank you for contributing to the Bareos Project!
 
-Please have a look at the following author-checklist: 
+Please have a look at the following author checklist: 
 
 #### Checklist for the _author_ of the PR
 
-- [ ] Add a small description to the CHANGELOG.md file and refer to your PR using this syntax '[PR #xyz]'
 - [ ] Add your name to the AUTHORS file
 
 ### Helpful documentation:
@@ -26,6 +25,7 @@ Please have a look at the following author-checklist:
 - [ ] Is there an entry in the ChangeLog for this PR?
 - [ ] Is a documentation change required (and part of the PR)?
 - [ ] does "check-sources --since-merge" report any problems? 
+- [ ] Add a small description to the CHANGELOG.md file and refer to your PR using this syntax '[PR #xyz]'
     
 - [ ] Build and run the PR and execute the available tests and check if they are successful.
 - [ ] are compiler errors or warnings added?
