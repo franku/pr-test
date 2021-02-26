@@ -1,13 +1,15 @@
 ### Thank you for contributing to the Bareos Project!
+### Do not be afraid to open a PR!
 
 - [ ] Please add your name to the AUTHORS file if you want
+
+We will be happy to give you hands-on help. Please see the checklist below if you want to know the next steps. 
 
 ### Helpful documentation:
 
 - [Git Workflow](https://docs.bareos.org/DeveloperGuide/gitworkflow.html)
 - [Automatic Sourcecode Formatting](https://docs.bareos.org/DeveloperGuide/generaldevel.html#automatic-sourcecode-formatting)
 - [Check your commit messages](https://docs.bareos.org/DeveloperGuide/gitworkflow.html#commits)
-
 
 
 #### Checklist for the _reviewer_ of the PR:
