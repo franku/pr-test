@@ -1,8 +1,8 @@
 ### Thank you for contributing to the Bareos Project!
 
-Please have a look at the following author-checklist. 
+Please have a look at the following author-checklist: 
 
-#### Checklist for the _author_ of the PR:
+#### Checklist for the _author_ of the PR
 
 - [ ] Add a small description to the CHANGELOG.md file and refer to your PR using this syntax '[PR #xyz]'
 - [ ] Add your name to the AUTHORS file
