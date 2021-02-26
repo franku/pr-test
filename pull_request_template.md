@@ -11,7 +11,7 @@ In the following links you will find documentation on our best practices. If you
 - [Check your commit messages](https://docs.bareos.org/DeveloperGuide/gitworkflow.html#commits)
 
 
-#### Checklist for the _reviewer_ of the PR:
+#### Checklist for the _reviewer_ of the PR (will be processed by Bareos):
 
 - [ ] Is the PR Name meaningful?
 - [ ] Is the purpose of the PR understood?
