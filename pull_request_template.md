@@ -28,13 +28,10 @@ In the following links you will find documentation on our best practices. If you
 - [ ] Required documentation changes are present and part of the PR
 - [ ] "check-sources --since-merge" does not report any problems
 
-- [ ] Decsision taken that a system- or unittest is required 
+- [ ] Decsision taken that a system- or unittest is required (if not, then remove the next paragraph)
 
-##### Tests
+##### Tests TBD
 
-- [ ] If it is a system test: could the same be achieved as unit test?
-    
+- [ ] If it is a system test: could the same be achieved as unit test?    
 - [ ] does the testname match tell what is being tested?
 - [ ] Does a test failure tell what went wrong?
-- [ ] if no test is added:
-- [ ] is a test required? 
