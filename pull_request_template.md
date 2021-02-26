@@ -1,9 +1,8 @@
 ### Thank you for contributing to the Bareos Project!
-### Do not be afraid to open a PR!
 
 - [ ] Please add your name to the AUTHORS file if you want
 
-We will be happy to give you hands-on help. Please see the checklist below if you want to know the next steps. 
+In the following links you will find documentation on our best practices. If you have any questions or problems, please comment in the PR. 
 
 ### Helpful documentation:
 
