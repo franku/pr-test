@@ -13,20 +13,21 @@ In the following links you will find documentation on our best practices. If you
 
 #### Checklist for the _reviewer_ of the PR (will be processed by Bareos):
 
-- [ ] Is the PR Name meaningful?
-- [ ] Is the purpose of the PR understood?
-- [ ] Are the commit comments understandable and well formatted?
-- [ ] Is the source code understandable?
-- [ ] Are variable and function names meaningful?
-- [ ] Are comments correct (logic and spelling ?)
-- [ ] Is there an entry in the ChangeLog for this PR?
-- [ ] Is a documentation change required (and part of the PR)?
-- [ ] does "check-sources --since-merge" report any problems? 
-- [ ] Add a small description to the CHANGELOG.md file and refer to your PR using this syntax '[PR #xyz]'
-    
-- [ ] Build and run the PR and execute the available tests and check if they are successful.
-- [ ] are compiler errors or warnings added?
+##### General 
 
+- [ ] PR Name is meaningful
+- [ ] Purpose of the PR is understood
+- [ ] Separate commit for this PR in the CHANGELOG.md
+- [ ] Commit descriptions are understandable and well formatted
+
+##### Source code quality
+
+- [ ] Source code changes are understandable
+- [ ] Variable and function names are meaningful
+- [ ] Code comments are correct (logically and spelling)
+- [ ] Required documentation changes are present and part of the PR
+- [ ] "check-sources --since-merge" does not report any problems
+    
 - [ ] if a Test is added:
 - [ ]   does the testname match tell what is being tested?
 - [ ]   If it is a system test: could the same be achieved as unit test?
