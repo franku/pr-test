@@ -1,10 +1,6 @@
 ### Thank you for contributing to the Bareos Project!
 
-Please have a look at the following author checklist: 
-
-#### Checklist for the _author_ of the PR
-
-- [ ] Add your name to the AUTHORS file
+- [ ] Please add your name to the AUTHORS file if you want
 
 ### Helpful documentation:
 
