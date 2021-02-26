@@ -30,8 +30,8 @@ In the following links you will find documentation on our best practices. If you
 
 - [ ] Decsision taken that a system- or unittest is required (if not, then remove the next paragraph)
 
-##### Tests TBD
+##### Tests
 
-- [ ] If it is a system test: could the same be achieved as unit test?    
-- [ ] does the testname match tell what is being tested?
-- [ ] Does a test failure tell what went wrong?
+- [ ] The decision towards a systemtest is reasonable compared to a unittest
+- [ ] Testname matches exactly what is being tested
+- [ ] Output of the test leads quickly to the origin of the fault
