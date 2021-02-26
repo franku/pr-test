@@ -27,7 +27,6 @@ In the following links you will find documentation on our best practices. If you
 - [ ] Code comments are correct (logically and spelling)
 - [ ] Required documentation changes are present and part of the PR
 - [ ] "check-sources --since-merge" does not report any problems
-
 - [ ] Decsision taken that a system- or unittest is required (if not, then remove the next paragraph)
 
 ##### Tests
