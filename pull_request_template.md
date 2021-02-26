@@ -1,18 +1,18 @@
 ### Keep spirit!
 - [x] Do not be afraid to hand in a PR!
 
-### The following Bareos Documentation can give more information
+#### Checklist for the _author_ of the PR:
+
+- [ ] Add a small description to the CHANGELOG.md file and refer to your PR using this syntax '[PR #xyz]'
+- [ ] Add your name to the AUTHORS file
+
+### Helpful documentation:
 
 - [Git Workflow](https://docs.bareos.org/DeveloperGuide/gitworkflow.html)
 - [Automatic Sourcecode Formatting](https://docs.bareos.org/DeveloperGuide/generaldevel.html#automatic-sourcecode-formatting)
 - [Check your commit messages](https://docs.bareos.org/DeveloperGuide/gitworkflow.html#commits)
 
 
-
-#### Checklist for the _author_ of the PR:
-
-- [ ] Add a small description to the CHANGELOG.md file and refer to your PR using this syntax '[PR #xyz]'
-- [ ] Add your name to the AUTHORS file
 
 #### Checklist for the _reviewer_ of the PR:
 
