@@ -2,7 +2,9 @@
 
 - [ ] Please add your name to the AUTHORS file if you want
 
-In the following links you will find documentation on our best practices. If you have any questions or problems, please comment in the PR. 
+In the following links you will find documentation on our best practices. 
+
+If you have any questions or problems, please give a comment in the PR. 
 
 ### Helpful documentation:
 
