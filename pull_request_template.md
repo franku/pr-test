@@ -19,7 +19,7 @@ If you have any questions or problems, please give a comment in the PR.
 
 - [ ] PR Name is meaningful
 - [ ] Purpose of the PR is understood
-- [ ] Separate commit for this PR in the CHANGELOG.md
+- [ ] Separate commit for this PR in the CHANGELOG.md, PR number referenced is same
 - [ ] Commit descriptions are understandable and well formatted
 
 ##### Source code quality
