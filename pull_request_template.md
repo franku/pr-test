@@ -26,7 +26,8 @@ In the following links you will find documentation on our best practices. If you
 - [ ] Variable and function names are meaningful
 - [ ] Code comments are correct (logically and spelling)
 - [ ] Required documentation changes are present and part of the PR
-- [ ] "check-sources --since-merge" does not report any problems
+- [ ] `check-sources --since-merge` does not report any problems
+- [ ] `git status` should not report modifications in the source tree after building and testing
 
 ##### Tests
 
