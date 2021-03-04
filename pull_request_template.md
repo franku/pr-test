@@ -1,6 +1,6 @@
 ### Thank you for contributing to the Bareos Project!
 
-- [ ] Please add your name to the AUTHORS file if you want
+- [ ] Your name is added to the AUTHORS file if you want
 
 In the following links you will find documentation on our best practices. 
 
