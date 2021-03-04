@@ -33,7 +33,7 @@ If you have any questions or problems, please give a comment in the PR.
 
 ##### Tests
 
-- [ ] Decsision taken that a system- or unittest is required (if not, then remove this paragraph)
+- [ ] Decision taken that a system- or unittest is required (if not, then remove this paragraph)
 - [ ] The decision towards a systemtest is reasonable compared to a unittest
 - [ ] Testname matches exactly what is being tested
 - [ ] Output of the test leads quickly to the origin of the fault
