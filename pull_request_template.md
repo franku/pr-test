@@ -1,8 +1,6 @@
-- add short description of changed and what is the target
-
-
 ### Thank you for contributing to the Bareos Project!
 
+- [ ] Added a short description and the purpose of this PR _above this paragraph_
 - [ ] Your name is added to the AUTHORS file if you want
 
 In the following links you will find documentation on our best practices. 
@@ -20,7 +18,7 @@ If you have any questions or problems, please give a comment in the PR.
 
 ##### General 
 
-- [ ] PR Name is meaningful
+- [ ] PR name is meaningful
 - [ ] Purpose of the PR is understood
 - [ ] Separate commit for this PR in the CHANGELOG.md, PR number referenced is same
 - [ ] Commit descriptions are understandable and well formatted
