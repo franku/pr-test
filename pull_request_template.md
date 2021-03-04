@@ -5,11 +5,9 @@
 - [ ] Added a short description and the purpose of this PR _above this paragraph_
 - [ ] Your name is added to the AUTHORS file if you want
 
-In the following links you will find documentation on our best practices. 
-
 If you have any questions or problems, please give a comment in the PR. 
 
-### Helpful documentation:
+### Helpful documentation and best practices
 
 - [Git Workflow](https://docs.bareos.org/DeveloperGuide/gitworkflow.html)
 - [Automatic Sourcecode Formatting](https://docs.bareos.org/DeveloperGuide/generaldevel.html#automatic-sourcecode-formatting)
