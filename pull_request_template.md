@@ -2,7 +2,7 @@
 
 #### Please check:
 
-- [ ] Short description and the purpose of this PR _above this paragraph_ is present
+- [ ] Short description and the purpose of this PR is present _above this paragraph_
 - [ ] Your name is present in the AUTHORS file (optional)
 
 If you have any questions or problems, please give a comment in the PR. 
