@@ -1,3 +1,6 @@
+- add short description of changed and what is the target
+
+
 ### Thank you for contributing to the Bareos Project!
 
 - [ ] Your name is added to the AUTHORS file if you want
