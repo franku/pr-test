@@ -1,5 +1,7 @@
 ### Thank you for contributing to the Bareos Project!
 
+#### Please check:
+
 - [ ] Added a short description and the purpose of this PR _above this paragraph_
 - [ ] Your name is added to the AUTHORS file if you want
 
