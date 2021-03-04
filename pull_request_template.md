@@ -1,6 +1,6 @@
 ### Thank you for contributing to the Bareos Project!
 
-#### Please check:
+#### Please check
 
 - [ ] Short description and the purpose of this PR is present _above this paragraph_
 - [ ] Your name is present in the AUTHORS file (optional)
@@ -14,7 +14,7 @@ If you have any questions or problems, please give a comment in the PR.
 - [Check your commit messages](https://docs.bareos.org/DeveloperGuide/gitworkflow.html#commits)
 
 
-### Checklist for the _reviewer_ of the PR (will be processed by the Bareos team):
+### Checklist for the _reviewer_ of the PR (will be processed by the Bareos team)
 
 ##### General 
 
