@@ -2,8 +2,8 @@
 
 #### Please check:
 
-- [ ] Added a short description and the purpose of this PR _above this paragraph_
-- [ ] Your name is added to the AUTHORS file if you want
+- [ ] Short description and the purpose of this PR _above this paragraph_ is present
+- [ ] Your name is present in the AUTHORS file (optional)
 
 If you have any questions or problems, please give a comment in the PR. 
 
